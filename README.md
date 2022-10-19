@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanice172
 - 👀 I’m interested in learning, rest, and progress.
-- 🌱 I’m currently learning how to live life.
+- 🌱 I’m currently learning how to code, develop, manage.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 shanice172@gmail.com
 
